@@ -13,6 +13,7 @@
     <p class="home-links">
       <a href="https://gridsome.org/docs/" target="_blank" rel="noopener">Gridsome Docs</a>
       <a href="https://github.com/gridsome/gridsome" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://www.haolife.top" target="_blank" rel="noopener">haolife.top</a>
     </p>
 
   </Layout>
@@ -21,7 +22,7 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Hello, world!'
+    title: '主页Hello, world!'
   }
 }
 </script>
