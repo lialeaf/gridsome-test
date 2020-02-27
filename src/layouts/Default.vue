@@ -7,6 +7,7 @@
       <nav class="nav">
         <g-link class="nav__link" to="/">主页</g-link>
         <g-link class="nav__link" to="/about/">关于</g-link>
+        <g-link class="nav__link" to="/about2/">关于2</g-link>
       </nav>
     </header>
     <slot/>
