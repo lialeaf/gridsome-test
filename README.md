@@ -15,3 +15,8 @@ This is the project you get when you run `gridsome create new-project`.
 
 ### 二级域名
 https://haolife-gridsome.netlify.com/
+
+> This is a hexo site hosted with Netlify.
+
+<!-- Markdown snippet -->
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/DemoMacro/Hexo-NetlifyCMS/)
